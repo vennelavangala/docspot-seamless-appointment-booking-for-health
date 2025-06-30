@@ -1,0 +1,10 @@
+.login-bg {
+  background-image: url('https://i.pinimg.com/736x/15/47/c1/1547c11ae29089c573614ed932e8cf4a.jpg');
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+
+.overlay {
+  background-color: rgba(0, 0, 0, 0.4);
+}

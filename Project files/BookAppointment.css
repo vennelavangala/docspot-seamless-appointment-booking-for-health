@@ -1,0 +1,24 @@
+.book-appointment-page {
+  background: linear-gradient(to right, #e6f0ff, #ffffff);
+  padding: 30px;
+}
+
+.form-container {
+  width: 100%;
+  max-width: 500px;
+  background-color: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+.form-label {
+  font-weight: 500;
+}
+
+button[type="submit"] {
+  transition: background 0.3s ease;
+}
+
+button[type="submit"]:hover {
+  background-color: #0d6efdcc;
+}
